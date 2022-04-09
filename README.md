@@ -1,0 +1,1 @@
+A thread-safe generic map structure in Golang.
